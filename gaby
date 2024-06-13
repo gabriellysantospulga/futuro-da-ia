@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<body>
+    <h2>Olá devs!</h2>
+    <div>
+        <p>Aula 01</p>
+        <a href="#"><p>Slides da Aula</p></a>
+    </div>
+</body>
+<h2 class="titulo-principal">Meus Objetivos do ano<span>_</span></h2>
+<div class="container">
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+</div>
+<h2 class="titulo-principal">Escola de Tecnologia<span>_</span></h2>
+<div class="botoes">
+    <button class="botao">Nossos cursos</button>
+    <button class="botao">Quem somos?</button>
+</div>
+
